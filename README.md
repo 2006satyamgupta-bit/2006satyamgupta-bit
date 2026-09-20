@@ -13,7 +13,6 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 ![](https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###html
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 </p>
