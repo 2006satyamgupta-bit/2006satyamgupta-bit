@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpeg" alt="banner" width="100%" />
+  <img src="banner.jpeg" alt="banner" height="50%" width="100%" />
 </p>
 # 💫 About Me:
 
