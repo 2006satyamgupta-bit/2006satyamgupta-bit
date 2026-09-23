@@ -21,25 +21,25 @@ pp
 <div align="center">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh3908&theme=tokyonight" width="48%" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh3908&theme=tokyonight" width="48%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Repos Per Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh3908&theme=tokyonight" width="48%" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh3908&theme=tokyonight" width="48%" alt="Productive Commit Time" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adarsh3908&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Productive Commit Time" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh3908&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
+  <img src="https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
 </p>
 
 </div>
