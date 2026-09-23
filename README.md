@@ -25,7 +25,7 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 </p>
 
-ppp
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=2006satyamgupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
