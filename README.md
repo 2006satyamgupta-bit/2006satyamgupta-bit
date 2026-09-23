@@ -36,7 +36,6 @@ ppp
 ![](https://github-contributor-stats.vercel.app/api?username=2006satyamgupta-bit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
