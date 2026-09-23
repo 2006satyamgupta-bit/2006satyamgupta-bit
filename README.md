@@ -20,16 +20,6 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 pp
 <div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2006satyamgupta-bit&theme=tokyonight" width="48%" alt="Productive Commit Time" />
-</p>
-
 <br/>
 
 <p align="center">
