@@ -18,9 +18,7 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
-</p>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
