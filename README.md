@@ -17,16 +17,7 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-pp
 <div align="center">
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
