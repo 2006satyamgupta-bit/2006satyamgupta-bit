@@ -38,4 +38,8 @@ ppp
 ---
 <img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
