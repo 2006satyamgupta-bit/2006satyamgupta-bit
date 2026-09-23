@@ -16,11 +16,39 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 ![](https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
+pp
+<div align="center">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh3908&theme=tokyonight" width="48%" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh3908&theme=tokyonight" width="48%" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh3908&theme=tokyonight" width="48%" alt="Most Committed Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adarsh3908&theme=tokyonight" width="48%" alt="Productive Commit Time" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adarsh3908&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh3908&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
+</p>
+
+</div>
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 </p>
 
-
+ppp
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=2006satyamgupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
