@@ -70,6 +70,33 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 </p>
 
+### GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=radical" height="150" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2006satyamgupta-bit&theme=radical" height="150" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2006satyamgupta-bit&theme=radical" height="150" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=radical" height="150" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2006satyamgupta-bit&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
+</p>
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat" alt="Code Time" />
+  <img src="http://img.shields.io/badge/Profile%20Views-25-blue?style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat" alt="Lines of Code" />
+</p>
+
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=2006satyamgupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
