@@ -1,15 +1,16 @@
 <p align="center">
   <img src="banner.png" alt="banner" width="100%" />
 </p>
-<h1>💫 About Me:</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar;Full-stack+developer+in+the+making;" alt="Typing SVG" />
   </a>
 </h1>
 
+<!---
+<h1>💫 About Me:</h1>
 Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Science student passionate about web development, problem-solving, and building practical projects.<br><br>🛠️ Tech Stack<br>Languages: C++, JavaScript<br>Frontend: HTML, CSS, React<br>Tools: Git, GitHub, VS Code<br>Currently Learning: Data Structures & Algorithms, Backend Development<br>🚀 What I'm Working On<br>Strengthening my DSA and problem-solving skills<br>Building projects with JavaScript & React<br>Exploring full-stack web development<br>Learning how to use AI effectively in software development
-
+--->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_.asatyam_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/satyam-gupta-381046250) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/_xsatyam) [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?logo=LeetCode&logoColor=#d16c06&style=for-the-badge)](https://leetcode.com/u/25_CSE_0450/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/profile/2006satyuyw1?tab=activity)
