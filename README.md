@@ -42,12 +42,14 @@ Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Scie
 </p>
 
 ### Profile Views
+<div align="center">
 <table>
   <tr>
     <td>
-<img src="https://count.getloli.com/@2006satyamgupta-bit?name=2006satyamgupta-bit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500">
+<img src="https://count.getloli.com/@2006satyamgupta-bit?name=2006satyamgupta-bit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" >
     </td>
   </tr>
 </table>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
