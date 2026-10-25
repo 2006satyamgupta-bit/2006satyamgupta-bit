@@ -2,7 +2,11 @@
   <img src="banner.png" alt="banner" width="100%" />
 </p>
 <h1>💫 About Me:</h1>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar; alt="Typing SVG" />
+  </a>
+</h1>
 Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Science student passionate about web development, problem-solving, and building practical projects.<br><br>🛠️ Tech Stack<br>Languages: C++, JavaScript<br>Frontend: HTML, CSS, React<br>Tools: Git, GitHub, VS Code<br>Currently Learning: Data Structures & Algorithms, Backend Development<br>🚀 What I'm Working On<br>Strengthening my DSA and problem-solving skills<br>Building projects with JavaScript & React<br>Exploring full-stack web development<br>Learning how to use AI effectively in software development
 
 
