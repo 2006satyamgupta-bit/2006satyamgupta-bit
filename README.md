@@ -85,7 +85,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes Card" />
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="Jokes Card" />
 </p>
 
 <p align="center">
