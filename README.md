@@ -7,6 +7,52 @@
   </a>
 </h1>
 
+<table>
+  <tr>
+    <td width="52%" valign="top">
+
+### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
+- 🌱 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑵𝒐𝒅𝒆.𝒋𝒔
+- 🧭 𝑻𝒖𝒓𝒏𝒊𝒏𝒈 𝒗𝒂𝒈𝒖𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏𝒕𝒐 𝒔𝒉𝒊𝒑𝒑𝒆𝒅 𝒖𝒔𝒆𝒓 𝒇𝒍𝒐𝒘𝒔
+- 🛠️ 𝑶𝒃𝒔𝒆𝒔𝒔𝒆𝒅 𝒘𝒊𝒕𝒉 𝑫𝑿: 𝒍𝒊𝒏𝒕𝒊𝒏𝒈, 𝒕𝒆𝒔𝒕𝒔, 𝒐𝒏𝒆-𝒄𝒍𝒊𝒄𝒌 𝒅𝒆𝒑𝒍𝒐𝒚𝒔
+- 📚 𝑫𝒆𝒆𝒑-𝒅𝒊𝒗𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝒃𝒖𝒅𝒈𝒆𝒕𝒔 & 𝒕𝒆𝒔𝒕𝒊𝒏𝒈 𝒑𝒚𝒓𝒂𝒎𝒊𝒅𝒔
+- 🤝 𝑰 𝒔𝒉𝒊𝒑 𝒇𝒂𝒔𝒕𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒕𝒆𝒂𝒎𝒎𝒂𝒕𝒆 — 𝒑𝒊𝒏𝒈 𝒎𝒆!
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://doshinishit.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1FZ39_P0U6GryNUW6lt8WQbEyzHyD1Xfs/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+   </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://shorturl.at/odfzC" style="width:100%;max-width:380px;height:auto;" alt="About">
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" style="width:100%;max-width:300px;" alt="neon grid" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<br>
+
+
 <!---
 <h1>💫 About Me:</h1>
 Hi, I'm Satyam Kumar 👋<br><br>🎓 B.Tech CSE Student <br>I'm a Computer Science student passionate about web development, problem-solving, and building practical projects.<br><br>🛠️ Tech Stack<br>Languages: C++, JavaScript<br>Frontend: HTML, CSS, React<br>Tools: Git, GitHub, VS Code<br>Currently Learning: Data Structures & Algorithms, Backend Development<br>🚀 What I'm Working On<br>Strengthening my DSA and problem-solving skills<br>Building projects with JavaScript & React<br>Exploring full-stack web development<br>Learning how to use AI effectively in software development
