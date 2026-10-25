@@ -87,12 +87,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes Card" />
 </p>
 
-<p align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat" alt="Code Time" />
-  <img src="http://img.shields.io/badge/Profile%20Views-25-blue?style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat" alt="Lines of Code" />
-</p>
-
 ---
 
 <h2 align ="center"> 👀 Profile Views</h2>
