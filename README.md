@@ -93,28 +93,9 @@
   <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat" alt="Lines of Code" />
 </p>
 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2006satyamgupta-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2006satyamgupta-bit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-
-
-
-
-
-### Profile Views
+### 👀 Profile Views
 <div align="center">
 <table>
   <tr>
