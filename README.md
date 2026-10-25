@@ -63,8 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006satyamgupta-bit&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2006satyamgupta-bit&theme=dracula&custom_title=nishit546's%20Contribution%20Graph" height="195" alt="Contribution Graph" />
-</p>
 
 ![](https://github-readme-stats.shion.dev/api?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true)<br/>
