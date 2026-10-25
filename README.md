@@ -64,13 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006satyamgupta-bit&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
 
-![](https://github-readme-stats.shion.dev/api?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=2006satyamgupta-bit&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=2006satyamgupta-bit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-
-
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" /> --->
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
