@@ -79,6 +79,25 @@
   <img src="https://komarev.com/ghpvc/?username=2006satyamgupta-bit&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://samdev-pulse.vercel.app/api/profile?username=2006satyamgupta-bit&theme=midnight-sunset&leetcode=25_CSE_0450&align=center" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=2006satyamgupta-bit&show_icons=true&count_private=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=2006satyamgupta-bit&theme=radical&hide_border=false" height="195" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006satyamgupta-bit&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2006satyamgupta-bit&theme=dracula&custom_title=nishit546's%20Contribution%20Graph" height="195" alt="Contribution Graph" />
+</p>
+
+
 ### Profile Views
 <div align="center">
 <table>
