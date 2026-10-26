@@ -116,33 +116,3 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<h2 align="center">Featured repos</h2>
-
-<p align="center">
-  <a href="https://github.com/2006satyamgupta-bit/dsa_problems"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-dsa-problems-dark.svg?username=2006satyamgupta-bit&repo=dsa_problems" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-dsa-problems-light.svg?username=2006satyamgupta-bit&repo=dsa_problems" alt="dsa_problems" />
-  </picture></a>
-  <a href="https://github.com/2006satyamgupta-bit/backend"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-backend-dark.svg?username=2006satyamgupta-bit&repo=backend" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-backend-light.svg?username=2006satyamgupta-bit&repo=backend" alt="backend" />
-  </picture></a>
-  <a href="https://github.com/2006satyamgupta-bit/node-js"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-node-js-dark.svg?username=2006satyamgupta-bit&repo=node-js" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-node-js-light.svg?username=2006satyamgupta-bit&repo=node-js" alt="node-js" />
-  </picture></a>
-  <a href="https://github.com/2006satyamgupta-bit/FSD_CSE-32"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-fsd-cse-32-dark.svg?username=2006satyamgupta-bit&repo=FSD_CSE-32" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-fsd-cse-32-light.svg?username=2006satyamgupta-bit&repo=FSD_CSE-32" alt="FSD_CSE-32" />
-  </picture></a>
-  <a href="https://github.com/2006satyamgupta-bit/backend_file_setup"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-backend-file-setup-dark.svg?username=2006satyamgupta-bit&repo=backend_file_setup" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-backend-file-setup-light.svg?username=2006satyamgupta-bit&repo=backend_file_setup" alt="backend_file_setup" />
-  </picture></a>
-  <a href="https://github.com/2006satyamgupta-bit/metrologyShield"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-metrologyshield-dark.svg?username=2006satyamgupta-bit&repo=metrologyShield" />
-    <img src="https://raw.githubusercontent.com/2006satyamgupta-bit/2006satyamgupta-bit/main/profile-assets/card-repo-metrologyshield-light.svg?username=2006satyamgupta-bit&repo=metrologyShield" alt="metrologyShield" />
-  </picture></a>
-</p>
-
