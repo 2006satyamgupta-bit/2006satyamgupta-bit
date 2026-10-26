@@ -14,7 +14,6 @@
 ### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 - 🎓 <b><i>B.Tech CSE Student</i></b>
-- 📚 <b><i>Currently Learning: Data Structures & Algorithms, Backend Development</i></b>
 - 🛠️ <b><i>Strengthening my DSA and problem-solving skills</i></b>
 - 💻 <b><i>Exploring full-stack web development</i></b>
 
