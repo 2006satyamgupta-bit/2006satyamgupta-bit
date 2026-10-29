@@ -53,16 +53,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://samdev-pulse.vercel.app/api/profile?username=2006satyamgupta-bit&theme=midnight-sunset&leetcode=25_CSE_0450&align=center" />
+  <img src="https://samdev-pulse.vercel.app/api/profile?username=asatyam37&theme=midnight-sunset&leetcode=25_CSE_0450&align=center" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2006satyamgupta-bit&show_icons=true&count_private=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=2006satyamgupta-bit&theme=radical&hide_border=false" height="195" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asatyam37&show_icons=true&count_private=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=asatyam37&theme=radical&hide_border=false" height="195" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2006satyamgupta-bit&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asatyam37&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=tokyonight" width="97%" alt="Profile Summary Activity" /> --->
 
@@ -73,13 +73,13 @@
 ### GitHub Profile Summary Cards
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2006satyamgupta-bit&theme=radical" height="150" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2006satyamgupta-bit&theme=radical" height="150" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2006satyamgupta-bit&theme=radical" height="150" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asatyam37&theme=radical" height="150" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asatyam37&theme=radical" height="150" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asatyam37&theme=radical" height="150" alt="Most Commit Language" />
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=radical" height="150" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2006satyamgupta-bit&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asatyam37&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
 </p>
 
 
@@ -94,7 +94,7 @@
 <table>
   <tr>
     <td>
-<img src="https://count.getloli.com/@2006satyamgupta-bit?name=2006satyamgupta-bit&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" >
+<img src="https://count.getloli.com/@asatyam37?name=asatyam37&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" >
     </td>
   </tr>
 </table>
