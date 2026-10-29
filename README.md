@@ -88,6 +88,18 @@
 </p>
 
 ---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asatyam37/asatyam37/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asatyam37/asatyam37/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/asatyam37/asatyam37/output/github-snake.svg">
+</picture>
+
+
 <h2 align ="center"> 👀 Profile Views</h2>
 <div align="center">
 <table>
