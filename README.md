@@ -88,7 +88,6 @@
 </p>
 
 ---
-
 <h2 align ="center"> 👀 Profile Views</h2>
 <div align="center">
 <table>
