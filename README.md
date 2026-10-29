@@ -88,10 +88,7 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</p>
+<!---Snake Contribution--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -102,9 +99,6 @@
     src="https://raw.githubusercontent.com/asatyam37/asatyam37/output/github-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</p>
 
 
 
